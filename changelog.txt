@@ -1,0 +1,11 @@
+*** Changelog ***
+
+= 1.0.2 - 2021-07-21 =
+* Fix: Bug fixes and improvement
+
+= 1.0.1 - 2021-06-20 =
+* Fix: Bug fixes and improvement
+
+= 1.0.0 - 2021-06-11 =
+* Initial Release
+
